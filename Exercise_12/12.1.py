@@ -1,5 +1,5 @@
 import requests
-# import json - To check the dictionary structure
+# import json -To check the dictionary structure
 
 request = "https://api.chucknorris.io/jokes/random"
 response = requests.get(request).json()
