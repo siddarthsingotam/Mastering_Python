@@ -1,7 +1,7 @@
 import requests
 # import json
 
-# My api_key = "794bc234d44ce063d594d5840c40263d" - Free usage Plan
+# My api_key = "794bc234d44ce063d594d5840c40263d" -Free usage Plan
 
 # Taking Input from Front-end user
 api_key = input(f"\nEnter your API key here: ")
